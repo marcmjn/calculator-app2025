@@ -10,12 +10,6 @@ A simple and stylish calculator built using **React**! Supports **keyboard input
 ✅ Responsive design (Works on desktop & mobile)
 
 ## 🚀 Live Demo
-🔗 [Deployed App (If Hosted)](https://your-live-demo-link.com)
+🔗 https://calculator-app2025.vercel.app
 
-## 🛠 Installation & Setup
-To run this calculator locally:
 
-1️⃣ **Clone the repository**  
-```sh
-git clone https://github.com/yourusername/react-calculator.git
-cd react-calculator
